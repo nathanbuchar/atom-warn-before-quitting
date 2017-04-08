@@ -1,7 +1,7 @@
 {
   "name": "warn-before-quitting",
   "main": "./lib/warn-before-quitting",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Warns you before quitting the app. Press ⌘Q again to quit.",
   "keywords": [
     "warn",
@@ -19,6 +19,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
