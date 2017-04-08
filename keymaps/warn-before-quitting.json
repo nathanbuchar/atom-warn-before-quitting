@@ -1,0 +1,8 @@
+{
+  ".platform-linux atom-workspace, .platform-win32 atom-workspace": {
+    "ctrl-q": "warn-before-quitting:toggle"
+  },
+  ".platform-darwin atom-workspace": {
+    "cmd-q": "warn-before-quitting:toggle"
+  }
+}
