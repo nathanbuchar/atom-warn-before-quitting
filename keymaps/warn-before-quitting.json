@@ -4,5 +4,8 @@
   },
   ".platform-darwin atom-workspace": {
     "cmd-q": "warn-before-quitting:toggle"
+  },
+  "atom-workspace": {
+    "escape": "warn-before-quitting:cancel"
   }
 }
